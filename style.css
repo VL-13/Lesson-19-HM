@@ -1,0 +1,22 @@
+button {
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius: 10%;
+}
+
+.btn1{
+    background-color: blue;
+}
+
+.btn2{
+    background-color: green;
+}
+
+.btn3{
+    background-color: red;
+}
